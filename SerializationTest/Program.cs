@@ -4,9 +4,18 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 
 Console.WriteLine("Hello, World!");
-Terrain terrain = new Terrain();
+Terrain terrain = new Terrain()
+{
+    id = 5,
+    name = "blorbus"
+};
 
-string jsonString = JsonSerializer.Serialize(terrain);
+var options = new JsonSerializerOptions
+{
+    TypeInfoResolver = AppJsonSerializerContext.Default
+};
+
+string jsonString = JsonSerializer.Serialize(terrain, options);
 
 Console.WriteLine(jsonString);
 

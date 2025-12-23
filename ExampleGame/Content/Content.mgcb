@@ -1,0 +1,21 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+/reference:..\..\JsonPipelineExtension\bin\Debug\net9.0\JsonPipelineExtension.dll
+
+#---------------------------------- Content ---------------------------------#
+
+#begin exampleData.json
+/importer:
+/processor:
+/build:exampleData.json
+

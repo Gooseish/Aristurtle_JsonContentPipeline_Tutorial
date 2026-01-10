@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dJYgqK9V4JM=",
+  "dgSpecHash": "aO1mIsPLOCM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Home\\Desktop\\Sandbox\\Serialization\\JsonPipelineExtension\\JsonPipelineExtension.csproj",
+  "projectFilePath": "C:\\Users\\Home\\Desktop\\Sandbox\\Aristurtle_JsonContentPipeline_Tutorial\\JsonPipelineExtension\\JsonPipelineExtension.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Home\\.nuget\\packages\\assimpnetter\\5.4.3.3\\assimpnetter.5.4.3.3.nupkg.sha512",
     "C:\\Users\\Home\\.nuget\\packages\\bcnencoder.net\\2.1.0\\bcnencoder.net.2.1.0.nupkg.sha512",
@@ -29,10 +29,7 @@
     "C:\\Users\\Home\\.nuget\\packages\\sharpdx\\4.0.1\\sharpdx.4.0.1.nupkg.sha512",
     "C:\\Users\\Home\\.nuget\\packages\\sharpdx.d3dcompiler\\4.0.1\\sharpdx.d3dcompiler.4.0.1.nupkg.sha512",
     "C:\\Users\\Home\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\Home\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
-    "C:\\Users\\Home\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
-    "C:\\Users\\Home\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512"
+    "C:\\Users\\Home\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

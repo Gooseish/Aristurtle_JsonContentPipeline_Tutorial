@@ -10,3 +10,16 @@ C:\Users\Home\Desktop\Sandbox\Serialization\JsonPipelineExtension\obj\Debug\net9
 C:\Users\Home\Desktop\Sandbox\Serialization\JsonPipelineExtension\obj\Debug\net9.0\refint\JsonPipelineExtension.dll
 C:\Users\Home\Desktop\Sandbox\Serialization\JsonPipelineExtension\obj\Debug\net9.0\JsonPipelineExtension.pdb
 C:\Users\Home\Desktop\Sandbox\Serialization\JsonPipelineExtension\obj\Debug\net9.0\ref\JsonPipelineExtension.dll
+C:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipelineExtension\bin\Debug\net9.0\JsonPipelineExtension.deps.json
+C:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipelineExtension\bin\Debug\net9.0\JsonPipelineExtension.dll
+C:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipelineExtension\bin\Debug\net9.0\JsonPipelineExtension.pdb
+C:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipelineExtension\obj\Debug\net9.0\JsonPipelineExtension.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipelineExtension\obj\Debug\net9.0\JsonPipelineExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipelineExtension\obj\Debug\net9.0\JsonPipelineExtension.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipelineExtension\obj\Debug\net9.0\JsonPipelineExtension.AssemblyInfo.cs
+C:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipelineExtension\obj\Debug\net9.0\JsonPipelineExtension.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipelineExtension\obj\Debug\net9.0\JsonPipelineExtension.sourcelink.json
+C:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipelineExtension\obj\Debug\net9.0\JsonPipelineExtension.dll
+C:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipelineExtension\obj\Debug\net9.0\refint\JsonPipelineExtension.dll
+C:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipelineExtension\obj\Debug\net9.0\JsonPipelineExtension.pdb
+C:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipelineExtension\obj\Debug\net9.0\ref\JsonPipelineExtension.dll

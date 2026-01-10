@@ -10,12 +10,14 @@
 
 #-------------------------------- References --------------------------------#
 
-/reference:..\..\JsonPipelineExtension\bin\Debug\net9.0\JsonPipelineExtension.dll
+/reference:..\..\JsonPipelineExtension\bin\Debug\net8.0\JsonPipelineExtension.dll
 
 #---------------------------------- Content ---------------------------------#
 
-#begin exampleData.json
-/importer:
-/processor:
-/build:exampleData.json
+#begin example_data.json
+/importer:JsonContentImporter
+/processor:JsonContentProcessor
+/processorParam:Minify=True
+/processorParam:RuntimeIdentifier=
+/build:example_data.json
 

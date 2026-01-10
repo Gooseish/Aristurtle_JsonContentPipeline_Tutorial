@@ -1,0 +1,1 @@
+c:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\ExampleGame\obj\Debug\net9.0\mgcb.tool.restore

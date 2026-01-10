@@ -1,0 +1,13 @@
+c:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipeline\bin\Debug\net8.0\JsonPipeline.deps.json
+c:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipeline\bin\Debug\net8.0\JsonPipeline.dll
+c:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipeline\bin\Debug\net8.0\JsonPipeline.pdb
+c:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipeline\obj\Debug\net8.0\JsonPipeline.csproj.AssemblyReference.cache
+c:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipeline\obj\Debug\net8.0\JsonPipeline.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipeline\obj\Debug\net8.0\JsonPipeline.AssemblyInfoInputs.cache
+c:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipeline\obj\Debug\net8.0\JsonPipeline.AssemblyInfo.cs
+c:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipeline\obj\Debug\net8.0\JsonPipeline.csproj.CoreCompileInputs.cache
+c:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipeline\obj\Debug\net8.0\JsonPipeline.sourcelink.json
+c:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipeline\obj\Debug\net8.0\JsonPipeline.dll
+c:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipeline\obj\Debug\net8.0\refint\JsonPipeline.dll
+c:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipeline\obj\Debug\net8.0\JsonPipeline.pdb
+c:\Users\Home\Desktop\Sandbox\Aristurtle_JsonContentPipeline_Tutorial\JsonPipeline\obj\Debug\net8.0\ref\JsonPipeline.dll

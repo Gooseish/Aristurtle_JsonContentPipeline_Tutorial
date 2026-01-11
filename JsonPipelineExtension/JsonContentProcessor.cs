@@ -23,8 +23,8 @@ internal class JsonContentProcessor : ContentProcessor<TInput, TOutput>
             throw new System.Exception("No runtime identifier was specified for this json content");
         if (Minify)
             input = MinifyJson(input);
-        JsonContentProcessorResult result = new()
-            { Json = input };
+        TOutput result = new()
+            { Json = input, RuntimeIdentifier = RuntimeIdentifier };
         return result;
     }
     private string MinifyJson(string input)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Home\\Desktop\\Sandbox\\Aristurtle_JsonContentPipeline_Tutorial\\ExampleGame\\ExampleGame.csproj": {}
+    "C:\\Users\\Home\\Desktop\\Sandbox\\Aristurtle_JsonContentPipeline_Tutorial\\ExampleGame\\ExampleGame.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Home\\Desktop\\Sandbox\\Aristurtle_JsonContentPipeline_Tutorial\\ExampleGame\\ExampleGame.csproj": {
+    "C:\\Users\\Home\\Desktop\\Sandbox\\Aristurtle_JsonContentPipeline_Tutorial\\ExampleGame\\ExampleGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Home\\Desktop\\Sandbox\\Aristurtle_JsonContentPipeline_Tutorial\\ExampleGame\\ExampleGame.csproj",
+        "projectUniqueName": "C:\\Users\\Home\\Desktop\\Sandbox\\Aristurtle_JsonContentPipeline_Tutorial\\ExampleGame\\ExampleGame.csproj",
         "projectName": "ExampleGame",
-        "projectPath": "c:\\Users\\Home\\Desktop\\Sandbox\\Aristurtle_JsonContentPipeline_Tutorial\\ExampleGame\\ExampleGame.csproj",
+        "projectPath": "C:\\Users\\Home\\Desktop\\Sandbox\\Aristurtle_JsonContentPipeline_Tutorial\\ExampleGame\\ExampleGame.csproj",
         "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Home\\Desktop\\Sandbox\\Aristurtle_JsonContentPipeline_Tutorial\\ExampleGame\\obj\\",
+        "outputPath": "C:\\Users\\Home\\Desktop\\Sandbox\\Aristurtle_JsonContentPipeline_Tutorial\\ExampleGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",

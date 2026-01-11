@@ -1,1 +1,2 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/Home/Desktop/Sandbox/Aristurtle_JsonContentPipeline_Tutorial/ExampleGame/Content/example_data.json","c:/Users/Home/Desktop/Sandbox/Aristurtle_JsonContentPipeline_Tutorial/ExampleGame/Content/bin/DesktopGL/example_data.xnb","JsonContentProcessor","JsonContentProcessorResult",89,82,0.1106231

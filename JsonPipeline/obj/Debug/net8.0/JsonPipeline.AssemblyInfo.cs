@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JsonPipeline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14bdaaf0a22f37e8e684d0bdc4210d82a4674536")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd962f928d478ef0a9036d4df6bbec93a5297382")]
 [assembly: System.Reflection.AssemblyProductAttribute("JsonPipeline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JsonPipeline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
